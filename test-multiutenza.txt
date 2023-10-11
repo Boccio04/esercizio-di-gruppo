@@ -1,0 +1,4 @@
+questo file è gestito da più persone 
+ogni persona può lavorare sul file 
+senza bisogno di coordinarsi con gli altri
+il controllo di versione gestisce gli eventuali conflitti 
