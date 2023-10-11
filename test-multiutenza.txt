@@ -1,6 +1,7 @@
 Alessandro Bocedi 
 questo file è gestito da più persone 
 ogni persona può lavorare sul file 
+file modificato da Benassi Gabriele
 senza bisogno di coordinarsi con gli altri
 il controllo di versione gestisce gli eventuali conflitti
 Benassi Gabriele
