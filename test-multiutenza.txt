@@ -1,3 +1,4 @@
+Alessandro Bocedi 
 questo file è gestito da più persone 
 ogni persona può lavorare sul file 
 senza bisogno di coordinarsi con gli altri
