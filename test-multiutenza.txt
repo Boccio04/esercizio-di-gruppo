@@ -5,5 +5,5 @@ file modificato da Benassi Gabriele
 file modificato da alessandro bocedi
 senza bisogno di coordinarsi con gli altri
 il controllo di versione gestisce gli eventuali conflitti
-Benassi Gabriele
+Conflitti
 secondo conflitto 
